@@ -1,5 +1,9 @@
 # alpine-cloud-datastore-emulator
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/xaviiic/alpine-cloud-datastore-emulator.svg)]()
+[![Docker Build Status](https://img.shields.io/docker/build/xaviiic/alpine-cloud-datastore-emulator.svg)]()
+[![Docker Automated Build](https://img.shields.io/docker/automated/xaviiic/alpine-cloud-datastore-emulator.svg)]()
+
 This is minimal Docker image for running cloud datastore emulator.
 Reference and build from [Google Cloud SDK](https://hub.docker.com/r/google/cloud-sdk/) alpine-based image.
 
