@@ -19,7 +19,7 @@ Check the image content versions.
 
 ```
 $ docker run -it xaviiic/alpine-cloud-datastore-emulator:latest gcloud version
-Google Cloud SDK 160.0.0
+Google Cloud SDK 161.0.0
 cloud-datastore-emulator 1.2.1
 ```
 
